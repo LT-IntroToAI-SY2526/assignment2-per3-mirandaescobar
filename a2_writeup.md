@@ -18,5 +18,5 @@ What was most difficult for me while completing the match function was understan
 
 2. Explain how you could use the match function for extracting information from a movie database.
 
- I could use the match function when extracting information from the database to answer the questions prompted for the given assignment. 
+ I could use the match function when extracting information from the database to answer the questions prompted for the given assignment. For example, it could return the movie titles in a list of movies prompted or the integer of which the movie was released.
 
